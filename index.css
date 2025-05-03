@@ -13,7 +13,7 @@ p {
   margin: 0;
 }
 
-.oldgram-container {
+.paintgram-container {
     width: 375px;
     height: 67px;
     display: flex;
@@ -24,7 +24,7 @@ p {
     background: #fff;
 }
 
-.oldgram-image-container {
+.paintgram-image-container {
     width: 375px;
     height: auto;
     display: flex;
